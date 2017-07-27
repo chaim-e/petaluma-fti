@@ -1,0 +1,5 @@
+Welcome!
+This program verifies Theorem 3.
+[Tested with Python 2.7.6 and NumPy 1.8.0]
+Theorem 3 is: True
+
